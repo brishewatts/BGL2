@@ -1,0 +1,105 @@
+@import url(https://fonts.googleapis.com/css?family=Noto+Sans:400,700);
+.text{
+    font-family: Noto Sans;
+    font-size: 50px;
+    text-align: center;
+}
+.stext{
+    font-family: Noto Sans;
+    font-size: 15px;
+    text-align: center;
+}
+.picture{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 130px;
+}
+.header {
+    background: rgb(73, 155, 234);
+    border-bottom: 1px solid #dbdbdb;
+    font-family: arial, sans-serif;
+    color: #ffffff;
+    padding: 10px;
+}
+.boogle-small {
+    width: 96px;
+    height: 29px;
+    background: url(https://s3-eu-west-1.amazonaws.com/ownpictures/boogle.gif);
+    display: block;
+    left: -5px;
+    top: -5px;
+    position: relative;
+    float: left;
+}
+.nav-links {
+    list-style-type: none;
+    padding-left: 0;
+    margin: 0;
+}
+#main {
+    width: 100%;
+    font-family: "Noto Sans",sans-serif;
+    color: #555555;
+    font-size: 12px;
+    height: 100%;
+}
+.nav-links li {
+    display: inline;
+    padding: 0;
+}
+.nav-links li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-family: "Noto Sans", sans-serif;
+    font-size: 14px;
+    padding: 0 8px 0 8px;
+}
+#offered {
+    line-height: 28px;
+    text-align: center;
+    font-family: "Noto Sans", serif;
+    margin-left: auto;
+    margin-right: auto;
+    position: relative;
+}
+#footer ul{
+    list-style-type: none;
+    margin: 0 5px 0 5px;
+    padding: 0;
+    overflow: hidden;
+    color: gray;
+    font-size: 15px;
+    padding: 0 13px 0 13px;
+    display: inline;
+}
+
+.left-nav, #a:hover, a:visited, a:link, a:active{
+    margin:0;
+    text-align:left;
+    font-family: Verdana;
+    color: grey;
+    display: inline;
+    text-decoration: none;
+}
+
+.right-nav, #a:hover, a:visited, a:link, a:active{
+    text-align:right;
+    color:grey;
+    display:inline;
+    text-decoration:none;
+}
+
+#footer li, .left-nav{
+    float:center;
+    padding: 5px;
+}
+
+#footer li, .right-nav{
+    float:center;
+}
+.gumbi {
+    padding-top: 34px;
+    margin: 0 auto;
+    text-align: center;
+
